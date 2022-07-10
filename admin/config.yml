@@ -1,8 +1,7 @@
 backend:
   name: github
-  repo: constructions-incongrues/empilements
+  repo: trivoallan/empilement-test1
   branch: main
-  site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
   
 media_folder: static/files
 public_folder: files
